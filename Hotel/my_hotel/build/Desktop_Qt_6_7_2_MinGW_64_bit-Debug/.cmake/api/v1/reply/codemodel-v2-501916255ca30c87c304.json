@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a2727725a93b4ea56688.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "my_hotel",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "my_hotel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_hotel-Debug-cd25e9e8ca49c0b5dff4.json",
+					"name" : "my_hotel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_hotel_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_hotel_autogen-Debug-9f7c7f905a8d022ce8eb.json",
+					"name" : "my_hotel_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_hotel_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_hotel_autogen_timestamp_deps-Debug-b81cf296fb7af333cd0f.json",
+					"name" : "my_hotel_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Programs/Qt/my_hotel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
