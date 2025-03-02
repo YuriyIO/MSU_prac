@@ -1,0 +1,9 @@
+C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/my_hotel.dir
+C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/my_hotel_autogen_timestamp_deps.dir
+C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/my_hotel_autogen.dir
