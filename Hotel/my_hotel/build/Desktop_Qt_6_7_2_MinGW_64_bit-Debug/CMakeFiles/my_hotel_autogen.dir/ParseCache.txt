@@ -353,7 +353,6 @@ C:/Programs/Qt/my_hotel/mainwindow.h
  mdp:C:/Qt1/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h
  mdp:C:/Qt1/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:C:/Qt1/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
-C:/Programs/Qt/my_hotel/main.cpp
 C:/Programs/Qt/my_hotel/secondwindow.h
  mmc:Q_OBJECT
  mdp:C:/Programs/Qt/my_hotel/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/my_hotel_autogen/moc_predefs.h
@@ -707,6 +706,7 @@ C:/Programs/Qt/my_hotel/secondwindow.h
  mdp:C:/Qt1/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h
  mdp:C:/Qt1/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:C:/Qt1/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
+C:/Programs/Qt/my_hotel/main.cpp
 C:/Programs/Qt/my_hotel/mainwindow.cpp
  uic:./ui_mainwindow.h
 C:/Programs/Qt/my_hotel/secondwindow.cpp

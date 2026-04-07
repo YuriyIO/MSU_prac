@@ -211,6 +211,10 @@ void MainWindow::on_pushButton_continue_clicked()
         }
         else//последний день
         {
+
+            ui->label_cur_day->setNum(this->exp.get_cur_day());
+            ui->label_income->setNum(this->exp.get_hotel_income());
+
             //вывод информации об отеле
             QString q_str;
             int i = 0;
@@ -316,7 +320,8 @@ void MainWindow::on_pushButton_to_end_clicked()
             ui->lineEdit_req_num->setReadOnly(true);
         }
     }
-    else
+
+    if(this->is_init)
     {
         //проход по всем оставшимся дням и обработка запросов
         for(int i = this->exp.get_cur_day(); i < this->exp.get_amount_of_days(); i++)

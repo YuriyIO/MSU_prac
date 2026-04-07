@@ -21,15 +21,11 @@ public:
 
 private slots:
 
-    void on_pushButton_start_clicked();
-
     void on_pushButton_quit_clicked();
 
     void on_pushButton_continue_clicked();
 
     void on_pushButton_to_end_clicked();
-
-    void on_pushButton_continue_windowIconTextChanged(const QString &iconText);
 
 private:
     Ui::MainWindow *ui;
